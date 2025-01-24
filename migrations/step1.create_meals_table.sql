@@ -1,5 +1,4 @@
 CREATE TABLE meals (
-    meal_id INTEGER PRIMARY KEY,
     meal_name VARCHAR(20) NOT NULL,
     meal_energy REAL,
     meal_protein REAL,
